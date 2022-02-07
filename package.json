@@ -163,7 +163,7 @@
 		"sass-loader": "^11.0.1",
 		"semantic-release": "^17.4.2",
 		"simulant": "^0.2.2",
-		"sinon": "^10.0.0",
+		"sinon": "^13.0.1",
 		"string-replace-loader": "^3.0.1",
 		"style-loader": "^2.0.0",
 		"terser-webpack-plugin": "^5.1.1",
